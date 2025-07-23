@@ -1,5 +1,7 @@
 <h1 align="center">EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion</h1>
 
+[[arXiv]](https://arxiv.org/abs/2507.16535) [[Project Page]](https://whiteinblue.github.io/earthcrafter/)
+
 ### Abstract
 <span style="font-size: 12px; font-weight: 700;">
 Despite the remarkable developments achieved by recent 3D generation works, scaling these methods to geographic extents, such as modeling thousands of square kilometers of Earth’s surface, remains an open challenge.
