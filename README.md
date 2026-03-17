@@ -1,7 +1,7 @@
 <h1 align="center">EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion</h1>
 
 [[arXiv]](https://arxiv.org/abs/2507.16535) [[Project Page]](https://whiteinblue.github.io/earthcrafter/)
-[Official Codes](https://github.com/alibaba-damo-academy/earthcrafter)
+[[Official Codes]](https://github.com/alibaba-damo-academy/earthcrafter)
 
 ### Abstract
 <span style="font-size: 12px; font-weight: 700;">
